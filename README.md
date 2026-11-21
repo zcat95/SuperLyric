@@ -28,6 +28,7 @@
 | 椒盐音乐 | com.salt.music | Hook 获取 + 酷狗兜底 |
 | 汽水音乐 | com.luna.music | Hook 获取 + 酷狗兜底 |
 | Spotify | com.spotify.music | 网络获取 |
+| Cider | com.cidercollective.cider | 网络获取（酷狗曲库） |
 | Flamingo | 无固定包名 | API 原生支持 |
 | [光锥音乐](https://coneplayer.trantor.ink) | ink.trantor.coneplayer | API 原生支持 |
 | [BreezyMusic](https://github.com/BlueEve04/BreezyMusic) | com.breezy.music | API 原生支持 |

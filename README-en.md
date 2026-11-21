@@ -28,6 +28,7 @@ An LSPosed module that publishes lyrics from music apps to Android over Binder.
 | Salt Music | com.salt.music | Hook + Kugou fallback |
 | Soda Music | com.luna.music | Hook + Kugou fallback |
 | Spotify | com.spotify.music | Network |
+| Cider | com.cidercollective.cider | Network (Kugou catalog) |
 | Flamingo | No fixed package | Native API |
 | [Cone Player](https://coneplayer.trantor.ink) | ink.trantor.coneplayer | Native API |
 | [BreezyMusic](https://github.com/BlueEve04/BreezyMusic) | com.breezy.music | Native API |
